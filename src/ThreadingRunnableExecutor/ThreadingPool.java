@@ -15,7 +15,7 @@ import java.util.concurrent.ExecutorService;
 
 public class ThreadingPool {
 
-    public static void mainOld(String[] args) {
+    public static void main(String[] args) {
         
         //ask the user how large of a threadpool they want to use
         System.out.println("How big of a threadpool do you want to use? ");

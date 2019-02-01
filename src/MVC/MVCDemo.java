@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author mthoming
  */
 public class MVCDemo {
-   public static void main(String[] args) {
+   public static void mainOld(String[] args) {
 
       //Call the function below to create an instance of the Employee record 
       Employee model  = createEmployeeInDatabase();
